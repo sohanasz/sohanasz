@@ -10,7 +10,10 @@ I'm an aspiring full-stack engineer passionate about building softwares, solving
 A full-stack coding question solving platform with online code execution:
 - JWT-based serverless authentication
 - Admin/User role systems
-- Users can submit and execute their code respective to questions along with test case evaluation process and submission records
+- Users can submit and execute their code respective to questions
+- Respective to each question, various testcases will be evaluated
+- User submission records are maintained
+- Playlist and Bookmarking features 
 - Question CRUD, test case validation, tags, constraints
 - Integrated with Judge0 code execution engine
 - Self-hosted via Docker on DigitalOcean
