@@ -8,7 +8,7 @@ I'm an aspiring full-stack engineer passionate about building softwares, solving
 
 ### 🔥 [Project Codaro [Work In Progress]](https://github.com/sohanasz/Codaro)
 A full-stack coding question solving platform with online code execution:
-- JWT-based serverless authentication
+- JWT-based stateless authentication
 - Admin/User role systems
 - Users can submit and execute their code respective to questions
 - Respective to each question, various testcases will be evaluated
