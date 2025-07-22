@@ -6,7 +6,7 @@ I'm an aspiring full-stack engineer passionate about building softwares, solving
 
 ## 🚀 Featured Projects
 
-### 🔥 [Project Codaro | WIP](https://github.com/sohanasz/Codaro)
+### 🔥 [Project Codaro [Work In Progress]](https://github.com/sohanasz/Codaro)
 A full-stack coding question solving platform with online code execution:
 - JWT-based serverless authentication
 - Admin/User role systems
