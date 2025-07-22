@@ -16,7 +16,7 @@ A full-stack coding question solving platform with online code execution:
 - Playlist and Bookmarking features 
 - Question CRUD, test case validation, tags, constraints
 - Integrated with Judge0 code execution engine
-- Self-hosted via Docker on DigitalOcean
+- Self-hosted Judge0 via Docker on DigitalOcean
 
 🔗 Read my [Judge0 Hosting Blog](https://sohanasz.hashnode.dev/how-to-self-host-judge0-complete-guide-with-debugging)
 
