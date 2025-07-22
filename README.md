@@ -6,10 +6,11 @@ I'm an aspiring full-stack engineer passionate about building softwares, scalabl
 
 ## 🚀 Featured Projects
 
-### 🔥 [Codaro](https://github.com/sohanasz/Codaro)
-A full-stack code execution platform with:
+### 🔥 [Project Codaro | WIP](https://github.com/sohanasz/Codaro)
+A full-stack coding question solving platform with online code execution:
 - JWT-based serverless authentication
 - Admin/User role systems
+- Users can submit and execute their code respective to questions along with test case evaluation process and submission records
 - Question CRUD, test case validation, tags, constraints
 - Integrated with Judge0 code execution engine
 - Self-hosted via Docker on DigitalOcean
@@ -28,7 +29,6 @@ Simulates multi-persona AI chat using Gemini API.
 **Languages**: Python, JavaScript, TypeScript, SQL 
 **Frontend**: HTML, CSS, React.js
 **Backend**: Node.js, Express.js, 
-**Frameworks**: Node.js, Express  
 **Databases**: PostgreSQL (Prisma), MongoDB (Mongoose)  
 **DevOps**: Docker, DigitalOcean, Git  
 **Computer Science Fundamentals**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networking Fundamentals
