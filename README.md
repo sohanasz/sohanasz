@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sohan Chaudhari
 
-I'm an aspiring full-stack engineer passionate about building softwares, scalable APIs, and cloud-ready infrastructure.
+I'm an aspiring full-stack engineer passionate about building softwares, solving problems and learning and diving deep into technologies.
 
 ---
 
